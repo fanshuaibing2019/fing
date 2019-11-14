@@ -1,0 +1,4 @@
+﻿  声音.c
+D:\C语言代码\hello\声音.c(8,63): warning C4133: “函数”: 从“char [39]”到“LPCWSTR”的类型不兼容
+D:\C语言代码\hello\声音.c(9,63): warning C4133: “函数”: 从“char [39]”到“LPCWSTR”的类型不兼容
+  hello.vcxproj -> D:\C语言代码\hello\Debug\hello.exe

@@ -15,13 +15,13 @@ int main()
 	char* title = "´ò×ÖÄ¸ÓÎÏ·";
 	SetConsoleTitle(title);
 	
-	int Switch = 0;
-	out_meum();
+	int Switch = 1;
+	out_meum(&Switch);
 	//scanf("%d", &Switch);
 	//getchar();
-	(char)Switch;
-	Switch=getche()-48;
-	(int)Switch;
+//	(char)Switch;
+//	Switch=getche()-48;
+//	(int)Switch;
 	if (Switch == 1)
 	{
 		StartGame();
